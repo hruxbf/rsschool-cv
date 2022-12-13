@@ -1,1 +1,21 @@
+body{
+    margin: 0;
+}
 
+main{
+    display:grid;
+    grid-template-columns: 1fr 4fr;
+    margin:0;
+    padding:0 400px;
+
+
+}
+
+.col-1 {
+border: solid 2px red;
+background-color: #546E59;
+}
+
+.col-2 {
+    border: solid 2px red;
+    }
